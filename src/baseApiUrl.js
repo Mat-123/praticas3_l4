@@ -1,1 +1,1 @@
-export const myApiUrl = 'http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/'
+export const myApiUrl = 'http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2'
