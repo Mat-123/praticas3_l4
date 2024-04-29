@@ -8,7 +8,7 @@ const Home = () => {
     const [currentPage, setCurrentPage] = useState(1);
 
     useEffect(() => {
-        fetch(`${myApiUrl}/posts?page=${currentPage}`)
+        fetch(`${myApiUrl}/posts`)
             .then((res) => {
                 // recupera i dati della paginazione dagli header
                 setLastPage(parseInt(res.headers.get('X-WP-TotalPages')));
@@ -78,21 +78,21 @@ const Home = () => {
                         </li>
                     ))}
 
-                    <li
-                        className={`page-item ${
-                            currentPage === 'lastPage' && 'disabled'
-                        }`}
-                    >
-                        <span
-                            className="page-link"
-                            onClick={() =>
-                                currentPage !== lastPage &&
-                                changePage(currentPage + 1)
-                            }
-                        >
-                            Next
-                        </span>
-                    </li>
+<li
+    className={`page-item ${
+        currentPage === lastPage && 'disabled'
+    }`}
+>
+    <span
+        className="page-link"
+        onClick={() =>
+            currentPage !== lastPage &&
+            changePage(currentPage + 1)
+        }
+    >
+        Next
+    </span>
+</li>
                 </ul>
             </nav>
         </>
