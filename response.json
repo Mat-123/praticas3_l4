@@ -1,0 +1,1146 @@
+[
+    {
+      "id": 73,
+      "date": "2024-04-29T15:52:32",
+      "date_gmt": "2024-04-29T13:52:32",
+      "guid": {
+        "rendered": "http://localhost:8888/esercizioS2_L4/wordpress/?p=73"
+      },
+      "modified": "2024-04-29T15:52:34",
+      "modified_gmt": "2024-04-29T13:52:34",
+      "slug": "articolo-3",
+      "status": "publish",
+      "type": "post",
+      "link": "http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/",
+      "title": {
+        "rendered": "Articolo 3"
+      },
+      "content": {
+        "rendered": "\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis, mauris at dignissim interdum, mauris neque porta eros, a consectetur justo arcu vel sapien. Vestibulum lacinia faucibus aliquam. Proin vitae consectetur lectus. Integer ac felis malesuada, sodales dolor nec, eleifend arcu. Cras id semper felis, non aliquet neque. In faucibus et est id maximus. Suspendisse convallis tortor non diam sagittis, eu hendrerit felis sodales. Nulla facilisi. Morbi felis mauris, malesuada vitae gravida vitae, bibendum id quam. Nulla eleifend rutrum ex in facilisis. Nullam tincidunt neque id sagittis scelerisque. Vivamus venenatis dui at est mattis finibus.</p>\n\n\n\n<p>Quisque at odio eget est porta mollis. Maecenas mauris sem, elementum nec lorem eget, luctus sodales ante. Donec vestibulum diam nisl, id faucibus dui hendrerit vel. Morbi fermentum consectetur purus, ac sollicitudin lorem placerat nec. Nunc gravida odio finibus, commodo urna non, iaculis lectus. Nunc pretium ut leo in dictum. Pellentesque vitae interdum tellus.</p>\n\n\n\n<p>Integer porta et purus a egestas. Cras ut purus turpis. Fusce lacinia hendrerit faucibus. Donec ac libero vitae libero sagittis cursus. Sed sed nunc volutpat, commodo eros ut, iaculis nisi. Integer auctor sagittis nulla et faucibus. Proin eget lectus et dolor ornare lobortis. Donec nec tellus ultricies, molestie elit et, porttitor dui. Duis tristique nec est sit amet dignissim. Pellentesque pharetra nunc augue, ac ultrices lorem efficitur et. Etiam sodales lorem ut justo posuere pretium.</p>\n\n\n\n<p>Praesent blandit sagittis enim id feugiat. In hac habitasse platea dictumst. Donec nec gravida risus, at ornare tellus. Nam tempor nunc metus, sed finibus nulla suscipit vel. Nullam faucibus eu sem nec luctus. Maecenas maximus semper mauris, a feugiat ante aliquam eu. Vestibulum at eros ut ipsum consectetur facilisis nec et ex. Vivamus eu augue finibus, sollicitudin lorem et, laoreet nibh. Nunc dignissim eget nibh id feugiat. Nunc erat nibh, tincidunt id aliquet nec, lobortis ut velit. Nulla nec interdum dui. Donec blandit fringilla magna, eget tristique tortor egestas et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas ultricies malesuada. Duis rutrum, massa vel dapibus vestibulum, dui urna lobortis sem, non cursus ex massa at velit.</p>\n\n\n\n<p>Phasellus ullamcorper nibh ac sapien ullamcorper malesuada. Quisque nibh ante, consectetur sed nibh et, hendrerit iaculis ex. Phasellus in gravida nulla. Etiam ultrices finibus ex non porttitor. Cras non enim ac neque lacinia congue a commodo justo. Donec gravida tempor dui, in laoreet ex hendrerit quis. Etiam ut justo ut sapien laoreet maximus. Vivamus condimentum justo ac lectus tempor laoreet. In egestas tempor ante vel semper. Vestibulum mattis magna enim, vel luctus tellus vestibulum ut. Quisque a lorem vel metus cursus vestibulum.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis, mauris at dignissim interdum, mauris neque porta eros, a consectetur [&hellip;]</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 0,
+      "comment_status": "open",
+      "ping_status": "open",
+      "sticky": false,
+      "template": "",
+      "format": "standard",
+      "meta": {
+        "site-sidebar-layout": "default",
+        "site-content-layout": "",
+        "ast-site-content-layout": "",
+        "site-content-style": "default",
+        "site-sidebar-style": "default",
+        "ast-global-header-display": "",
+        "ast-banner-title-visibility": "",
+        "ast-main-header-display": "",
+        "ast-hfb-above-header-display": "",
+        "ast-hfb-below-header-display": "",
+        "ast-hfb-mobile-header-display": "",
+        "site-post-title": "",
+        "ast-breadcrumbs-content": "",
+        "ast-featured-img": "",
+        "footer-sml-layout": "",
+        "theme-transparent-header-meta": "",
+        "adv-header-id-meta": "",
+        "stick-header-meta": "",
+        "header-above-stick-meta": "",
+        "header-main-stick-meta": "",
+        "header-below-stick-meta": "",
+        "astra-migrate-meta-layouts": "default",
+        "ast-page-background-enabled": "default",
+        "ast-page-background-meta": {
+          "desktop": {
+            "background-color": "var(--ast-global-color-4)",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          },
+          "tablet": {
+            "background-color": "",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          },
+          "mobile": {
+            "background-color": "",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          }
+        },
+        "ast-content-background-meta": {
+          "desktop": {
+            "background-color": "var(--ast-global-color-5)",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          },
+          "tablet": {
+            "background-color": "var(--ast-global-color-5)",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          },
+          "mobile": {
+            "background-color": "var(--ast-global-color-5)",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          }
+        },
+        "_jetpack_memberships_contains_paid_content": false,
+        "footnotes": ""
+      },
+      "categories": [
+        6
+      ],
+      "tags": [],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v22.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Articolo 3 - EsercizioS2L4</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/\" />\n<meta property=\"og:locale\" content=\"it_IT\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Articolo 3 - EsercizioS2L4\" />\n<meta property=\"og:description\" content=\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis, mauris at dignissim interdum, mauris neque porta eros, a consectetur [&hellip;]\" />\n<meta property=\"og:url\" content=\"http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/\" />\n<meta property=\"og:site_name\" content=\"EsercizioS2L4\" />\n<meta property=\"article:published_time\" content=\"2024-04-29T13:52:32+00:00\" />\n<meta property=\"article:modified_time\" content=\"2024-04-29T13:52:34+00:00\" />\n<meta name=\"author\" content=\"mat-123\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Scritto da\" />\n\t<meta name=\"twitter:data1\" content=\"mat-123\" />\n\t<meta name=\"twitter:label2\" content=\"Tempo di lettura stimato\" />\n\t<meta name=\"twitter:data2\" content=\"3 minuti\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\n\t    \"@context\": \"https://schema.org\",\n\t    \"@graph\": [\n\t        {\n\t            \"@type\": \"Article\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/#article\",\n\t            \"isPartOf\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/\"\n\t            },\n\t            \"author\": {\n\t                \"name\": \"mat-123\",\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/4a5cedbc8a1b7fb34429f38afc8b477d\"\n\t            },\n\t            \"headline\": \"Articolo 3\",\n\t            \"datePublished\": \"2024-04-29T13:52:32+00:00\",\n\t            \"dateModified\": \"2024-04-29T13:52:34+00:00\",\n\t            \"mainEntityOfPage\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/\"\n\t            },\n\t            \"wordCount\": 425,\n\t            \"commentCount\": 0,\n\t            \"publisher\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#organization\"\n\t            },\n\t            \"articleSection\": [\n\t                \"Giardinaggio\"\n\t            ],\n\t            \"inLanguage\": \"it-IT\",\n\t            \"potentialAction\": [\n\t                {\n\t                    \"@type\": \"CommentAction\",\n\t                    \"name\": \"Comment\",\n\t                    \"target\": [\n\t                        \"http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/#respond\"\n\t                    ]\n\t                }\n\t            ]\n\t        },\n\t        {\n\t            \"@type\": \"WebPage\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/\",\n\t            \"url\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/\",\n\t            \"name\": \"Articolo 3 - EsercizioS2L4\",\n\t            \"isPartOf\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#website\"\n\t            },\n\t            \"datePublished\": \"2024-04-29T13:52:32+00:00\",\n\t            \"dateModified\": \"2024-04-29T13:52:34+00:00\",\n\t            \"breadcrumb\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/#breadcrumb\"\n\t            },\n\t            \"inLanguage\": \"it-IT\",\n\t            \"potentialAction\": [\n\t                {\n\t                    \"@type\": \"ReadAction\",\n\t                    \"target\": [\n\t                        \"http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/\"\n\t                    ]\n\t                }\n\t            ]\n\t        },\n\t        {\n\t            \"@type\": \"BreadcrumbList\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/#breadcrumb\",\n\t            \"itemListElement\": [\n\t                {\n\t                    \"@type\": \"ListItem\",\n\t                    \"position\": 1,\n\t                    \"name\": \"Home\",\n\t                    \"item\": \"http://localhost:8888/esercizioS2_L4/wordpress/\"\n\t                },\n\t                {\n\t                    \"@type\": \"ListItem\",\n\t                    \"position\": 2,\n\t                    \"name\": \"Articolo 3\"\n\t                }\n\t            ]\n\t        },\n\t        {\n\t            \"@type\": \"WebSite\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#website\",\n\t            \"url\": \"http://localhost:8888/esercizioS2_L4/wordpress/\",\n\t            \"name\": \"EsercizioS2L4\",\n\t            \"description\": \"\",\n\t            \"publisher\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#organization\"\n\t            },\n\t            \"potentialAction\": [\n\t                {\n\t                    \"@type\": \"SearchAction\",\n\t                    \"target\": {\n\t                        \"@type\": \"EntryPoint\",\n\t                        \"urlTemplate\": \"http://localhost:8888/esercizioS2_L4/wordpress/?s={search_term_string}\"\n\t                    },\n\t                    \"query-input\": \"required name=search_term_string\"\n\t                }\n\t            ],\n\t            \"inLanguage\": \"it-IT\"\n\t        },\n\t        {\n\t            \"@type\": \"Organization\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#organization\",\n\t            \"name\": \"EsercizioS2L4\",\n\t            \"url\": \"http://localhost:8888/esercizioS2_L4/wordpress/\",\n\t            \"logo\": {\n\t                \"@type\": \"ImageObject\",\n\t                \"inLanguage\": \"it-IT\",\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#/schema/logo/image/\",\n\t                \"url\": \"http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/logo.png\",\n\t                \"contentUrl\": \"http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/logo.png\",\n\t                \"width\": 156,\n\t                \"height\": 40,\n\t                \"caption\": \"EsercizioS2L4\"\n\t            },\n\t            \"image\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#/schema/logo/image/\"\n\t            }\n\t        },\n\t        {\n\t            \"@type\": \"Person\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/4a5cedbc8a1b7fb34429f38afc8b477d\",\n\t            \"name\": \"mat-123\",\n\t            \"image\": {\n\t                \"@type\": \"ImageObject\",\n\t                \"inLanguage\": \"it-IT\",\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/image/\",\n\t                \"url\": \"http://0.gravatar.com/avatar/f8920bff8a09ef1d5b5fb5b729216bdc?s=96&d=mm&r=g\",\n\t                \"contentUrl\": \"http://0.gravatar.com/avatar/f8920bff8a09ef1d5b5fb5b729216bdc?s=96&d=mm&r=g\",\n\t                \"caption\": \"mat-123\"\n\t            },\n\t            \"sameAs\": [\n\t                \"http://localhost:8888/esercizioS2_L4/wordpress\"\n\t            ],\n\t            \"url\": \"http://localhost:8888/esercizioS2_L4/wordpress/author/mat-123/\"\n\t        }\n\t    ]\n\t}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "title": "Articolo 3 - EsercizioS2L4",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/",
+        "og_locale": "it_IT",
+        "og_type": "article",
+        "og_title": "Articolo 3 - EsercizioS2L4",
+        "og_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis, mauris at dignissim interdum, mauris neque porta eros, a consectetur [&hellip;]",
+        "og_url": "http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/",
+        "og_site_name": "EsercizioS2L4",
+        "article_published_time": "2024-04-29T13:52:32+00:00",
+        "article_modified_time": "2024-04-29T13:52:34+00:00",
+        "author": "mat-123",
+        "twitter_card": "summary_large_image",
+        "twitter_misc": {
+          "Scritto da": "mat-123",
+          "Tempo di lettura stimato": "3 minuti"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/#article",
+              "isPartOf": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/"
+              },
+              "author": {
+                "name": "mat-123",
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/4a5cedbc8a1b7fb34429f38afc8b477d"
+              },
+              "headline": "Articolo 3",
+              "datePublished": "2024-04-29T13:52:32+00:00",
+              "dateModified": "2024-04-29T13:52:34+00:00",
+              "mainEntityOfPage": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/"
+              },
+              "wordCount": 425,
+              "commentCount": 0,
+              "publisher": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#organization"
+              },
+              "articleSection": [
+                "Giardinaggio"
+              ],
+              "inLanguage": "it-IT",
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/#respond"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/",
+              "url": "http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/",
+              "name": "Articolo 3 - EsercizioS2L4",
+              "isPartOf": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#website"
+              },
+              "datePublished": "2024-04-29T13:52:32+00:00",
+              "dateModified": "2024-04-29T13:52:34+00:00",
+              "breadcrumb": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/#breadcrumb"
+              },
+              "inLanguage": "it-IT",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/articolo-3/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://localhost:8888/esercizioS2_L4/wordpress/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Articolo 3"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#website",
+              "url": "http://localhost:8888/esercizioS2_L4/wordpress/",
+              "name": "EsercizioS2L4",
+              "description": "",
+              "publisher": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "http://localhost:8888/esercizioS2_L4/wordpress/?s={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              ],
+              "inLanguage": "it-IT"
+            },
+            {
+              "@type": "Organization",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#organization",
+              "name": "EsercizioS2L4",
+              "url": "http://localhost:8888/esercizioS2_L4/wordpress/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "it-IT",
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#/schema/logo/image/",
+                "url": "http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/logo.png",
+                "contentUrl": "http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/logo.png",
+                "width": 156,
+                "height": 40,
+                "caption": "EsercizioS2L4"
+              },
+              "image": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#/schema/logo/image/"
+              }
+            },
+            {
+              "@type": "Person",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/4a5cedbc8a1b7fb34429f38afc8b477d",
+              "name": "mat-123",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "it-IT",
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/image/",
+                "url": "http://0.gravatar.com/avatar/f8920bff8a09ef1d5b5fb5b729216bdc?s=96&d=mm&r=g",
+                "contentUrl": "http://0.gravatar.com/avatar/f8920bff8a09ef1d5b5fb5b729216bdc?s=96&d=mm&r=g",
+                "caption": "mat-123"
+              },
+              "sameAs": [
+                "http://localhost:8888/esercizioS2_L4/wordpress"
+              ],
+              "url": "http://localhost:8888/esercizioS2_L4/wordpress/author/mat-123/"
+            }
+          ]
+        }
+      },
+      "jetpack_sharing_enabled": true,
+      "jetpack_featured_media_url": "",
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/posts/73"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/posts"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/types/post"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/users/1"
+          }
+        ],
+        "replies": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/comments?post=73"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 1,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/posts/73/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 74,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/posts/73/revisions/74"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/media?parent=73"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/categories?post=73"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/tags?post=73"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "date": "2024-04-19T15:36:58",
+      "date_gmt": "2024-04-19T13:36:58",
+      "guid": {
+        "rendered": "http://localhost:8888/esercizioS2_L4/wordpress/?p=40"
+      },
+      "modified": "2024-04-19T16:02:22",
+      "modified_gmt": "2024-04-19T14:02:22",
+      "slug": "articolo2",
+      "status": "publish",
+      "type": "post",
+      "link": "http://localhost:8888/esercizioS2_L4/wordpress/articolo2/",
+      "title": {
+        "rendered": "Articolo2"
+      },
+      "content": {
+        "rendered": "\n<figure class=\"wp-block-image alignleft size-large is-resized\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"768\" src=\"http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/b08c37be-61bd-49a7-afe3-914445d0c3b0-1024x768.jpeg\" alt=\"\" class=\"wp-image-57\" style=\"width:340px;height:auto; margin-end:20px;\" srcset=\"http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/b08c37be-61bd-49a7-afe3-914445d0c3b0-1024x768.jpeg 1024w, http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/b08c37be-61bd-49a7-afe3-914445d0c3b0-300x225.jpeg 300w, http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/b08c37be-61bd-49a7-afe3-914445d0c3b0-768x576.jpeg 768w, http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/b08c37be-61bd-49a7-afe3-914445d0c3b0.jpeg 1280w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis aliquam magna. Orci varius <code>natoque</code> penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam scelerisque ac nunc eget pretium. Mauris nec nisi aliquet, fringilla magna nec, euismod dui. Aenean dignissim sem in nisi feugiat rhoncus. Nullam et risus vitae erat hendrerit facilisis ut ac augue. Mauris dictum ante et ultrices sodales. Phasellus congue mauris id justo posuere, id ornare nunc posuere.</p>\n\n\n\n<p>Pellentesque rutrum vehicula mi a placerat. Donec scelerisque ipsum a ultrices molestie. Aenean scelerisque placerat pellentesque. Nunc facilisis urna ac aliquam elementum. Nulla gravida metus eget elit porta iaculis. In hac habitasse platea dictumst. Nullam vitae orci rhoncus ipsum tristique efficitur sed et tortor.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis aliquam magna. Orci varius natoque penatibus et magnis dis parturient [&hellip;]</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 0,
+      "comment_status": "open",
+      "ping_status": "open",
+      "sticky": false,
+      "template": "",
+      "format": "standard",
+      "meta": {
+        "site-sidebar-layout": "default",
+        "site-content-layout": "",
+        "ast-site-content-layout": "",
+        "site-content-style": "default",
+        "site-sidebar-style": "default",
+        "ast-global-header-display": "",
+        "ast-banner-title-visibility": "",
+        "ast-main-header-display": "",
+        "ast-hfb-above-header-display": "",
+        "ast-hfb-below-header-display": "",
+        "ast-hfb-mobile-header-display": "",
+        "site-post-title": "",
+        "ast-breadcrumbs-content": "",
+        "ast-featured-img": "",
+        "footer-sml-layout": "",
+        "theme-transparent-header-meta": "",
+        "adv-header-id-meta": "",
+        "stick-header-meta": "",
+        "header-above-stick-meta": "",
+        "header-main-stick-meta": "",
+        "header-below-stick-meta": "",
+        "astra-migrate-meta-layouts": "default",
+        "ast-page-background-enabled": "default",
+        "ast-page-background-meta": {
+          "desktop": {
+            "background-color": "var(--ast-global-color-4)",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          },
+          "tablet": {
+            "background-color": "",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          },
+          "mobile": {
+            "background-color": "",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          }
+        },
+        "ast-content-background-meta": {
+          "desktop": {
+            "background-color": "var(--ast-global-color-5)",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          },
+          "tablet": {
+            "background-color": "var(--ast-global-color-5)",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          },
+          "mobile": {
+            "background-color": "var(--ast-global-color-5)",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          }
+        },
+        "_jetpack_memberships_contains_paid_content": false,
+        "footnotes": ""
+      },
+      "categories": [
+        1
+      ],
+      "tags": [],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v22.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Articolo2 - EsercizioS2L4</title>\n<meta name=\"description\" content=\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis aliquam magna. Orci varius natoque penatibus\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"http://localhost:8888/esercizioS2_L4/wordpress/articolo2/\" />\n<meta property=\"og:locale\" content=\"it_IT\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Articolo2 - EsercizioS2L4\" />\n<meta property=\"og:description\" content=\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis aliquam magna. Orci varius natoque penatibus\" />\n<meta property=\"og:url\" content=\"http://localhost:8888/esercizioS2_L4/wordpress/articolo2/\" />\n<meta property=\"og:site_name\" content=\"EsercizioS2L4\" />\n<meta property=\"article:published_time\" content=\"2024-04-19T13:36:58+00:00\" />\n<meta property=\"article:modified_time\" content=\"2024-04-19T14:02:22+00:00\" />\n<meta property=\"og:image\" content=\"http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/b08c37be-61bd-49a7-afe3-914445d0c3b0-1024x768.jpeg\" />\n<meta name=\"author\" content=\"mat-123\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Scritto da\" />\n\t<meta name=\"twitter:data1\" content=\"mat-123\" />\n\t<meta name=\"twitter:label2\" content=\"Tempo di lettura stimato\" />\n\t<meta name=\"twitter:data2\" content=\"1 minuto\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\n\t    \"@context\": \"https://schema.org\",\n\t    \"@graph\": [\n\t        {\n\t            \"@type\": \"Article\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo2/#article\",\n\t            \"isPartOf\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo2/\"\n\t            },\n\t            \"author\": {\n\t                \"name\": \"mat-123\",\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/4a5cedbc8a1b7fb34429f38afc8b477d\"\n\t            },\n\t            \"headline\": \"Articolo2\",\n\t            \"datePublished\": \"2024-04-19T13:36:58+00:00\",\n\t            \"dateModified\": \"2024-04-19T14:02:22+00:00\",\n\t            \"mainEntityOfPage\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo2/\"\n\t            },\n\t            \"wordCount\": 116,\n\t            \"commentCount\": 0,\n\t            \"publisher\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#organization\"\n\t            },\n\t            \"image\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo2/#primaryimage\"\n\t            },\n\t            \"thumbnailUrl\": \"http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/b08c37be-61bd-49a7-afe3-914445d0c3b0-1024x768.jpeg\",\n\t            \"articleSection\": [\n\t                \"Cucina\"\n\t            ],\n\t            \"inLanguage\": \"it-IT\",\n\t            \"potentialAction\": [\n\t                {\n\t                    \"@type\": \"CommentAction\",\n\t                    \"name\": \"Comment\",\n\t                    \"target\": [\n\t                        \"http://localhost:8888/esercizioS2_L4/wordpress/articolo2/#respond\"\n\t                    ]\n\t                }\n\t            ]\n\t        },\n\t        {\n\t            \"@type\": \"WebPage\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo2/\",\n\t            \"url\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo2/\",\n\t            \"name\": \"Articolo2 - EsercizioS2L4\",\n\t            \"isPartOf\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#website\"\n\t            },\n\t            \"primaryImageOfPage\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo2/#primaryimage\"\n\t            },\n\t            \"image\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo2/#primaryimage\"\n\t            },\n\t            \"thumbnailUrl\": \"http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/b08c37be-61bd-49a7-afe3-914445d0c3b0-1024x768.jpeg\",\n\t            \"datePublished\": \"2024-04-19T13:36:58+00:00\",\n\t            \"dateModified\": \"2024-04-19T14:02:22+00:00\",\n\t            \"description\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis aliquam magna. Orci varius natoque penatibus\",\n\t            \"breadcrumb\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo2/#breadcrumb\"\n\t            },\n\t            \"inLanguage\": \"it-IT\",\n\t            \"potentialAction\": [\n\t                {\n\t                    \"@type\": \"ReadAction\",\n\t                    \"target\": [\n\t                        \"http://localhost:8888/esercizioS2_L4/wordpress/articolo2/\"\n\t                    ]\n\t                }\n\t            ]\n\t        },\n\t        {\n\t            \"@type\": \"ImageObject\",\n\t            \"inLanguage\": \"it-IT\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo2/#primaryimage\",\n\t            \"url\": \"http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/b08c37be-61bd-49a7-afe3-914445d0c3b0.jpeg\",\n\t            \"contentUrl\": \"http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/b08c37be-61bd-49a7-afe3-914445d0c3b0.jpeg\",\n\t            \"width\": 1280,\n\t            \"height\": 960\n\t        },\n\t        {\n\t            \"@type\": \"BreadcrumbList\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/articolo2/#breadcrumb\",\n\t            \"itemListElement\": [\n\t                {\n\t                    \"@type\": \"ListItem\",\n\t                    \"position\": 1,\n\t                    \"name\": \"Home\",\n\t                    \"item\": \"http://localhost:8888/esercizioS2_L4/wordpress/\"\n\t                },\n\t                {\n\t                    \"@type\": \"ListItem\",\n\t                    \"position\": 2,\n\t                    \"name\": \"Articolo2\"\n\t                }\n\t            ]\n\t        },\n\t        {\n\t            \"@type\": \"WebSite\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#website\",\n\t            \"url\": \"http://localhost:8888/esercizioS2_L4/wordpress/\",\n\t            \"name\": \"EsercizioS2L4\",\n\t            \"description\": \"\",\n\t            \"publisher\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#organization\"\n\t            },\n\t            \"potentialAction\": [\n\t                {\n\t                    \"@type\": \"SearchAction\",\n\t                    \"target\": {\n\t                        \"@type\": \"EntryPoint\",\n\t                        \"urlTemplate\": \"http://localhost:8888/esercizioS2_L4/wordpress/?s={search_term_string}\"\n\t                    },\n\t                    \"query-input\": \"required name=search_term_string\"\n\t                }\n\t            ],\n\t            \"inLanguage\": \"it-IT\"\n\t        },\n\t        {\n\t            \"@type\": \"Organization\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#organization\",\n\t            \"name\": \"EsercizioS2L4\",\n\t            \"url\": \"http://localhost:8888/esercizioS2_L4/wordpress/\",\n\t            \"logo\": {\n\t                \"@type\": \"ImageObject\",\n\t                \"inLanguage\": \"it-IT\",\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#/schema/logo/image/\",\n\t                \"url\": \"http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/logo.png\",\n\t                \"contentUrl\": \"http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/logo.png\",\n\t                \"width\": 156,\n\t                \"height\": 40,\n\t                \"caption\": \"EsercizioS2L4\"\n\t            },\n\t            \"image\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#/schema/logo/image/\"\n\t            }\n\t        },\n\t        {\n\t            \"@type\": \"Person\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/4a5cedbc8a1b7fb34429f38afc8b477d\",\n\t            \"name\": \"mat-123\",\n\t            \"image\": {\n\t                \"@type\": \"ImageObject\",\n\t                \"inLanguage\": \"it-IT\",\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/image/\",\n\t                \"url\": \"http://0.gravatar.com/avatar/f8920bff8a09ef1d5b5fb5b729216bdc?s=96&d=mm&r=g\",\n\t                \"contentUrl\": \"http://0.gravatar.com/avatar/f8920bff8a09ef1d5b5fb5b729216bdc?s=96&d=mm&r=g\",\n\t                \"caption\": \"mat-123\"\n\t            },\n\t            \"sameAs\": [\n\t                \"http://localhost:8888/esercizioS2_L4/wordpress\"\n\t            ],\n\t            \"url\": \"http://localhost:8888/esercizioS2_L4/wordpress/author/mat-123/\"\n\t        }\n\t    ]\n\t}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "title": "Articolo2 - EsercizioS2L4",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis aliquam magna. Orci varius natoque penatibus",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://localhost:8888/esercizioS2_L4/wordpress/articolo2/",
+        "og_locale": "it_IT",
+        "og_type": "article",
+        "og_title": "Articolo2 - EsercizioS2L4",
+        "og_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis aliquam magna. Orci varius natoque penatibus",
+        "og_url": "http://localhost:8888/esercizioS2_L4/wordpress/articolo2/",
+        "og_site_name": "EsercizioS2L4",
+        "article_published_time": "2024-04-19T13:36:58+00:00",
+        "article_modified_time": "2024-04-19T14:02:22+00:00",
+        "og_image": [
+          {
+            "url": "http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/b08c37be-61bd-49a7-afe3-914445d0c3b0-1024x768.jpeg"
+          }
+        ],
+        "author": "mat-123",
+        "twitter_card": "summary_large_image",
+        "twitter_misc": {
+          "Scritto da": "mat-123",
+          "Tempo di lettura stimato": "1 minuto"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/articolo2/#article",
+              "isPartOf": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/articolo2/"
+              },
+              "author": {
+                "name": "mat-123",
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/4a5cedbc8a1b7fb34429f38afc8b477d"
+              },
+              "headline": "Articolo2",
+              "datePublished": "2024-04-19T13:36:58+00:00",
+              "dateModified": "2024-04-19T14:02:22+00:00",
+              "mainEntityOfPage": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/articolo2/"
+              },
+              "wordCount": 116,
+              "commentCount": 0,
+              "publisher": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#organization"
+              },
+              "image": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/articolo2/#primaryimage"
+              },
+              "thumbnailUrl": "http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/b08c37be-61bd-49a7-afe3-914445d0c3b0-1024x768.jpeg",
+              "articleSection": [
+                "Cucina"
+              ],
+              "inLanguage": "it-IT",
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "http://localhost:8888/esercizioS2_L4/wordpress/articolo2/#respond"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/articolo2/",
+              "url": "http://localhost:8888/esercizioS2_L4/wordpress/articolo2/",
+              "name": "Articolo2 - EsercizioS2L4",
+              "isPartOf": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/articolo2/#primaryimage"
+              },
+              "image": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/articolo2/#primaryimage"
+              },
+              "thumbnailUrl": "http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/b08c37be-61bd-49a7-afe3-914445d0c3b0-1024x768.jpeg",
+              "datePublished": "2024-04-19T13:36:58+00:00",
+              "dateModified": "2024-04-19T14:02:22+00:00",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis aliquam magna. Orci varius natoque penatibus",
+              "breadcrumb": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/articolo2/#breadcrumb"
+              },
+              "inLanguage": "it-IT",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "http://localhost:8888/esercizioS2_L4/wordpress/articolo2/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "it-IT",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/articolo2/#primaryimage",
+              "url": "http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/b08c37be-61bd-49a7-afe3-914445d0c3b0.jpeg",
+              "contentUrl": "http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/b08c37be-61bd-49a7-afe3-914445d0c3b0.jpeg",
+              "width": 1280,
+              "height": 960
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/articolo2/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://localhost:8888/esercizioS2_L4/wordpress/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Articolo2"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#website",
+              "url": "http://localhost:8888/esercizioS2_L4/wordpress/",
+              "name": "EsercizioS2L4",
+              "description": "",
+              "publisher": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "http://localhost:8888/esercizioS2_L4/wordpress/?s={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              ],
+              "inLanguage": "it-IT"
+            },
+            {
+              "@type": "Organization",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#organization",
+              "name": "EsercizioS2L4",
+              "url": "http://localhost:8888/esercizioS2_L4/wordpress/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "it-IT",
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#/schema/logo/image/",
+                "url": "http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/logo.png",
+                "contentUrl": "http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/logo.png",
+                "width": 156,
+                "height": 40,
+                "caption": "EsercizioS2L4"
+              },
+              "image": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#/schema/logo/image/"
+              }
+            },
+            {
+              "@type": "Person",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/4a5cedbc8a1b7fb34429f38afc8b477d",
+              "name": "mat-123",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "it-IT",
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/image/",
+                "url": "http://0.gravatar.com/avatar/f8920bff8a09ef1d5b5fb5b729216bdc?s=96&d=mm&r=g",
+                "contentUrl": "http://0.gravatar.com/avatar/f8920bff8a09ef1d5b5fb5b729216bdc?s=96&d=mm&r=g",
+                "caption": "mat-123"
+              },
+              "sameAs": [
+                "http://localhost:8888/esercizioS2_L4/wordpress"
+              ],
+              "url": "http://localhost:8888/esercizioS2_L4/wordpress/author/mat-123/"
+            }
+          ]
+        }
+      },
+      "jetpack_sharing_enabled": true,
+      "jetpack_featured_media_url": "",
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/posts/40"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/posts"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/types/post"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/users/1"
+          }
+        ],
+        "replies": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/comments?post=40"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 4,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/posts/40/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 61,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/posts/40/revisions/61"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/media?parent=40"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/categories?post=40"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/tags?post=40"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "date": "2024-04-19T14:44:10",
+      "date_gmt": "2024-04-19T12:44:10",
+      "guid": {
+        "rendered": "http://localhost:8888/esercizioS2_L4/wordpress/?p=1"
+      },
+      "modified": "2024-04-19T14:44:10",
+      "modified_gmt": "2024-04-19T12:44:10",
+      "slug": "ciao-mondo",
+      "status": "publish",
+      "type": "post",
+      "link": "http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/",
+      "title": {
+        "rendered": "Ciao mondo!"
+      },
+      "content": {
+        "rendered": "\n<p>Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 0,
+      "comment_status": "open",
+      "ping_status": "open",
+      "sticky": false,
+      "template": "",
+      "format": "standard",
+      "meta": {
+        "site-sidebar-layout": "default",
+        "site-content-layout": "",
+        "ast-site-content-layout": "",
+        "site-content-style": "default",
+        "site-sidebar-style": "default",
+        "ast-global-header-display": "",
+        "ast-banner-title-visibility": "",
+        "ast-main-header-display": "",
+        "ast-hfb-above-header-display": "",
+        "ast-hfb-below-header-display": "",
+        "ast-hfb-mobile-header-display": "",
+        "site-post-title": "",
+        "ast-breadcrumbs-content": "",
+        "ast-featured-img": "",
+        "footer-sml-layout": "",
+        "theme-transparent-header-meta": "",
+        "adv-header-id-meta": "",
+        "stick-header-meta": "",
+        "header-above-stick-meta": "",
+        "header-main-stick-meta": "",
+        "header-below-stick-meta": "",
+        "astra-migrate-meta-layouts": "default",
+        "ast-page-background-enabled": "default",
+        "ast-page-background-meta": {
+          "desktop": {
+            "background-color": "var(--ast-global-color-4)",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          },
+          "tablet": {
+            "background-color": "",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          },
+          "mobile": {
+            "background-color": "",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          }
+        },
+        "ast-content-background-meta": {
+          "desktop": {
+            "background-color": "var(--ast-global-color-5)",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          },
+          "tablet": {
+            "background-color": "var(--ast-global-color-5)",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          },
+          "mobile": {
+            "background-color": "var(--ast-global-color-5)",
+            "background-image": "",
+            "background-repeat": "repeat",
+            "background-position": "center center",
+            "background-size": "auto",
+            "background-attachment": "scroll",
+            "background-type": "",
+            "background-media": "",
+            "overlay-type": "",
+            "overlay-color": "",
+            "overlay-gradient": ""
+          }
+        },
+        "_jetpack_memberships_contains_paid_content": false,
+        "footnotes": ""
+      },
+      "categories": [
+        1
+      ],
+      "tags": [],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v22.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Ciao mondo! - EsercizioS2L4</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/\" />\n<meta property=\"og:locale\" content=\"it_IT\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Ciao mondo! - EsercizioS2L4\" />\n<meta property=\"og:description\" content=\"Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!\" />\n<meta property=\"og:url\" content=\"http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/\" />\n<meta property=\"og:site_name\" content=\"EsercizioS2L4\" />\n<meta property=\"article:published_time\" content=\"2024-04-19T12:44:10+00:00\" />\n<meta name=\"author\" content=\"mat-123\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Scritto da\" />\n\t<meta name=\"twitter:data1\" content=\"mat-123\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\n\t    \"@context\": \"https://schema.org\",\n\t    \"@graph\": [\n\t        {\n\t            \"@type\": \"Article\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/#article\",\n\t            \"isPartOf\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/\"\n\t            },\n\t            \"author\": {\n\t                \"name\": \"mat-123\",\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/4a5cedbc8a1b7fb34429f38afc8b477d\"\n\t            },\n\t            \"headline\": \"Ciao mondo!\",\n\t            \"datePublished\": \"2024-04-19T12:44:10+00:00\",\n\t            \"dateModified\": \"2024-04-19T12:44:10+00:00\",\n\t            \"mainEntityOfPage\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/\"\n\t            },\n\t            \"wordCount\": 21,\n\t            \"commentCount\": 1,\n\t            \"publisher\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#organization\"\n\t            },\n\t            \"articleSection\": [\n\t                \"Cucina\"\n\t            ],\n\t            \"inLanguage\": \"it-IT\",\n\t            \"potentialAction\": [\n\t                {\n\t                    \"@type\": \"CommentAction\",\n\t                    \"name\": \"Comment\",\n\t                    \"target\": [\n\t                        \"http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/#respond\"\n\t                    ]\n\t                }\n\t            ]\n\t        },\n\t        {\n\t            \"@type\": \"WebPage\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/\",\n\t            \"url\": \"http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/\",\n\t            \"name\": \"Ciao mondo! - EsercizioS2L4\",\n\t            \"isPartOf\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#website\"\n\t            },\n\t            \"datePublished\": \"2024-04-19T12:44:10+00:00\",\n\t            \"dateModified\": \"2024-04-19T12:44:10+00:00\",\n\t            \"breadcrumb\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/#breadcrumb\"\n\t            },\n\t            \"inLanguage\": \"it-IT\",\n\t            \"potentialAction\": [\n\t                {\n\t                    \"@type\": \"ReadAction\",\n\t                    \"target\": [\n\t                        \"http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/\"\n\t                    ]\n\t                }\n\t            ]\n\t        },\n\t        {\n\t            \"@type\": \"BreadcrumbList\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/#breadcrumb\",\n\t            \"itemListElement\": [\n\t                {\n\t                    \"@type\": \"ListItem\",\n\t                    \"position\": 1,\n\t                    \"name\": \"Home\",\n\t                    \"item\": \"http://localhost:8888/esercizioS2_L4/wordpress/\"\n\t                },\n\t                {\n\t                    \"@type\": \"ListItem\",\n\t                    \"position\": 2,\n\t                    \"name\": \"Ciao mondo!\"\n\t                }\n\t            ]\n\t        },\n\t        {\n\t            \"@type\": \"WebSite\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#website\",\n\t            \"url\": \"http://localhost:8888/esercizioS2_L4/wordpress/\",\n\t            \"name\": \"EsercizioS2L4\",\n\t            \"description\": \"\",\n\t            \"publisher\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#organization\"\n\t            },\n\t            \"potentialAction\": [\n\t                {\n\t                    \"@type\": \"SearchAction\",\n\t                    \"target\": {\n\t                        \"@type\": \"EntryPoint\",\n\t                        \"urlTemplate\": \"http://localhost:8888/esercizioS2_L4/wordpress/?s={search_term_string}\"\n\t                    },\n\t                    \"query-input\": \"required name=search_term_string\"\n\t                }\n\t            ],\n\t            \"inLanguage\": \"it-IT\"\n\t        },\n\t        {\n\t            \"@type\": \"Organization\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#organization\",\n\t            \"name\": \"EsercizioS2L4\",\n\t            \"url\": \"http://localhost:8888/esercizioS2_L4/wordpress/\",\n\t            \"logo\": {\n\t                \"@type\": \"ImageObject\",\n\t                \"inLanguage\": \"it-IT\",\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#/schema/logo/image/\",\n\t                \"url\": \"http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/logo.png\",\n\t                \"contentUrl\": \"http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/logo.png\",\n\t                \"width\": 156,\n\t                \"height\": 40,\n\t                \"caption\": \"EsercizioS2L4\"\n\t            },\n\t            \"image\": {\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#/schema/logo/image/\"\n\t            }\n\t        },\n\t        {\n\t            \"@type\": \"Person\",\n\t            \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/4a5cedbc8a1b7fb34429f38afc8b477d\",\n\t            \"name\": \"mat-123\",\n\t            \"image\": {\n\t                \"@type\": \"ImageObject\",\n\t                \"inLanguage\": \"it-IT\",\n\t                \"@id\": \"http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/image/\",\n\t                \"url\": \"http://0.gravatar.com/avatar/f8920bff8a09ef1d5b5fb5b729216bdc?s=96&d=mm&r=g\",\n\t                \"contentUrl\": \"http://0.gravatar.com/avatar/f8920bff8a09ef1d5b5fb5b729216bdc?s=96&d=mm&r=g\",\n\t                \"caption\": \"mat-123\"\n\t            },\n\t            \"sameAs\": [\n\t                \"http://localhost:8888/esercizioS2_L4/wordpress\"\n\t            ],\n\t            \"url\": \"http://localhost:8888/esercizioS2_L4/wordpress/author/mat-123/\"\n\t        }\n\t    ]\n\t}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "title": "Ciao mondo! - EsercizioS2L4",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/",
+        "og_locale": "it_IT",
+        "og_type": "article",
+        "og_title": "Ciao mondo! - EsercizioS2L4",
+        "og_description": "Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!",
+        "og_url": "http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/",
+        "og_site_name": "EsercizioS2L4",
+        "article_published_time": "2024-04-19T12:44:10+00:00",
+        "author": "mat-123",
+        "twitter_card": "summary_large_image",
+        "twitter_misc": {
+          "Scritto da": "mat-123"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/#article",
+              "isPartOf": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/"
+              },
+              "author": {
+                "name": "mat-123",
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/4a5cedbc8a1b7fb34429f38afc8b477d"
+              },
+              "headline": "Ciao mondo!",
+              "datePublished": "2024-04-19T12:44:10+00:00",
+              "dateModified": "2024-04-19T12:44:10+00:00",
+              "mainEntityOfPage": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/"
+              },
+              "wordCount": 21,
+              "commentCount": 1,
+              "publisher": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#organization"
+              },
+              "articleSection": [
+                "Cucina"
+              ],
+              "inLanguage": "it-IT",
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/#respond"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/",
+              "url": "http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/",
+              "name": "Ciao mondo! - EsercizioS2L4",
+              "isPartOf": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#website"
+              },
+              "datePublished": "2024-04-19T12:44:10+00:00",
+              "dateModified": "2024-04-19T12:44:10+00:00",
+              "breadcrumb": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/#breadcrumb"
+              },
+              "inLanguage": "it-IT",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/ciao-mondo/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://localhost:8888/esercizioS2_L4/wordpress/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ciao mondo!"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#website",
+              "url": "http://localhost:8888/esercizioS2_L4/wordpress/",
+              "name": "EsercizioS2L4",
+              "description": "",
+              "publisher": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "http://localhost:8888/esercizioS2_L4/wordpress/?s={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              ],
+              "inLanguage": "it-IT"
+            },
+            {
+              "@type": "Organization",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#organization",
+              "name": "EsercizioS2L4",
+              "url": "http://localhost:8888/esercizioS2_L4/wordpress/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "it-IT",
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#/schema/logo/image/",
+                "url": "http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/logo.png",
+                "contentUrl": "http://localhost:8888/esercizioS2_L4/wordpress/wp-content/uploads/2024/04/logo.png",
+                "width": 156,
+                "height": 40,
+                "caption": "EsercizioS2L4"
+              },
+              "image": {
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#/schema/logo/image/"
+              }
+            },
+            {
+              "@type": "Person",
+              "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/4a5cedbc8a1b7fb34429f38afc8b477d",
+              "name": "mat-123",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "it-IT",
+                "@id": "http://localhost:8888/esercizioS2_L4/wordpress/#/schema/person/image/",
+                "url": "http://0.gravatar.com/avatar/f8920bff8a09ef1d5b5fb5b729216bdc?s=96&d=mm&r=g",
+                "contentUrl": "http://0.gravatar.com/avatar/f8920bff8a09ef1d5b5fb5b729216bdc?s=96&d=mm&r=g",
+                "caption": "mat-123"
+              },
+              "sameAs": [
+                "http://localhost:8888/esercizioS2_L4/wordpress"
+              ],
+              "url": "http://localhost:8888/esercizioS2_L4/wordpress/author/mat-123/"
+            }
+          ]
+        }
+      },
+      "jetpack_sharing_enabled": true,
+      "jetpack_featured_media_url": "",
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/posts/1"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/posts"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/types/post"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/users/1"
+          }
+        ],
+        "replies": [
+          {
+            "embeddable": true,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/comments?post=1"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 0,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/posts/1/revisions"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/media?parent=1"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/categories?post=1"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "http://localhost:8888/esercizioS2_L4/wordpress/wp-json/wp/v2/tags?post=1"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    }
+  ]
