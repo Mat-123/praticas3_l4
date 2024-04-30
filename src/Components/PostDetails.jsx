@@ -30,7 +30,7 @@ const PostDetails = () => {
                         <h1>{post.title.rendered}</h1>
                         <h3 className='text-secondary'>{post.yoast_head_json.description}</h3>
                         <hr />
-                        <div className="d-flex flex-row justify-content-between">
+                        <div className="d-flex flex-row justify-content-between align-items-center">
                             <div className="flex-column">
                                 <p className='mb-0 fs-5'>Scritto da: {post.yoast_head_json.author}</p>
                                 <span className='mb-0 fs-6'>Pubblicato in: {post.yoast_head_json.schema['@graph'][0].articleSection[0]} · Tempo di lettura stimato: {post.yoast_head_json.twitter_misc["Tempo di lettura stimato"]}</span>
